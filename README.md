@@ -4,7 +4,7 @@ The primary objective of this project is to analyze Ola’s ride-booking data to
 
 <a href = "https://github.com/DeepakfromSIT/Ola-Data-Analytics/blob/main/Ola.xlsx">Dataset Used <a>
 
-<H5>Business Questions / Key Performance Indicators (KPIs)</H5>
+<H3>Business Questions / Key Performance Indicators (KPIs)</H3>
 
 The project aims to answer the following key business questions:
 
@@ -15,7 +15,7 @@ The project aims to answer the following key business questions:
 * Cancellation Insights: What percentage of bookings are canceled by customers vs drivers?
 * Customer Ratings (if available): How do customer ratings reflect service quality?
 
-<H5>Process</H5>
+<H3>Process</H3>
 
 * SQL for Data Extraction & Preparation: We begin by teaching you how to use SQL to query large datasets, clean and prepare data efficiently, and handle complex data structures. You’ll learn practical techniques to solve real-life data challenges and gain confidence in working with relational databases.
 
@@ -24,10 +24,10 @@ The project aims to answer the following key business questions:
 * Power BI for Dashboard Creation: Finally, we show you how to transform your insights into impactful visual stories using Power BI. You’ll learn to create an interactive and visually appealing dashboard that communicates key findings effectively, making complex data accessible to stakeholders.
 
 
-<h5>Dashboard</h5>
+<h3>Dashboard</h3>
 <img width="1158" height="779" alt="Screenshot 2025-10-07 183910" src="https://github.com/user-attachments/assets/b27af364-127c-4126-9b6b-f77bfc710efb" />
 
-<H5>Final Conclusion</H5>
+<H3>Final Conclusion</H3>
 * Monitor ride performance in real-time
 * Identify bottlenecks in operations (like high driver cancellations)
 * Make data-driven decisions for customer satisfaction and revenue growth
