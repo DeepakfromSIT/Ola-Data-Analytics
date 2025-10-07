@@ -29,5 +29,7 @@ The project aims to answer the following key business questions:
 
 <H3>Final Conclusion</H3>
 * Monitor ride performance in real-time
+
 * Identify bottlenecks in operations (like high driver cancellations)
+* 
 * Make data-driven decisions for customer satisfaction and revenue growth
