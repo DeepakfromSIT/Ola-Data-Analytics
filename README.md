@@ -14,6 +14,7 @@ The project aims to answer the following key business questions:
 * Ride Volume Over Time: How does ride volume vary across different days of the month?
 * Cancellation Insights: What percentage of bookings are canceled by customers vs drivers?
 * Customer Ratings (if available): How do customer ratings reflect service quality?
+* Dashboard Interaction: <a href="https://github.com/DeepakfromSIT/Ola-Data-Analytics/blob/main/OLA%20PROJECT.pbix"></a>
 
 <H3>Process</H3>
 
