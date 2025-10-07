@@ -27,4 +27,7 @@ The project aims to answer the following key business questions:
 <h5>Dashboard</h5>
 <img width="1158" height="779" alt="Screenshot 2025-10-07 183910" src="https://github.com/user-attachments/assets/b27af364-127c-4126-9b6b-f77bfc710efb" />
 
-
+<H5>Final Conclusion</H5>
+* Monitor ride performance in real-time
+* Identify bottlenecks in operations (like high driver cancellations)
+* Make data-driven decisions for customer satisfaction and revenue growth
